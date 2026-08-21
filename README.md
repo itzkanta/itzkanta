@@ -18,30 +18,37 @@ Currently, I'm focusing on **Python, Data Science, Backend Development, and Soft
 * 🌱 Always learning and experimenting with new technologies
 
 ---
-
 ## 🛠️ Tech Stack
 
-**Languages**
+### 👩‍💻 Programming Languages
 
-`Python` `C` `C++` `C#` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php" />
+</p>
 
-**Web Technologies**
+### 🌐 Web Technologies
 
-`HTML` `CSS`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css" />
+</p>
 
-**Data Science & Python**
+### 📊 Data Science & Machine Learning
 
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `BeautifulSoup` `Requests`
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-**Databases**
+### 🗄️ Databases
 
-`MySQL` `SQLite`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
-**Tools**
+### 🔧 Tools & Platforms
 
-`Git` `GitHub` `VS Code` `Canva`
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 📌 Featured Projects
 
