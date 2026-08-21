@@ -67,21 +67,10 @@ Python-based web scraping projects using **Requests, BeautifulSoup, and Pandas**
 
 Working on practical projects involving **PHP, MySQL, HTML, CSS, and backend development**.
 
----
-
-## 📚 Currently Learning
-
-* Advanced Python
-* Data Science & Machine Learning
-* Backend Development
-* Software Engineering
-* Building better and more maintainable projects
-
----
 
 ## 📈 My Goal
 
-> To become a skilled software developer by continuously learning, building real-world projects, and solving meaningful problems with technology.
+> To become a professional and skilled Data Scientist by developing strong foundations in Python, statistics, data analysis, and machine learning, while building real-world projects and continuously improving my problem-solving skills.
 
 ---
 
