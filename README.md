@@ -106,8 +106,3 @@ I've also worked on web and backend projects using **PHP, MySQL, HTML, and CSS**
 
 I'm always open to **learning, collaborating, and connecting** with fellow developers, data enthusiasts, and students.
 
-**GitHub:** [@itzk](https://github.com/itzk)
-
----
-
-### 💭 *Learn → Build → Analyze → Improve → Repeat.*
