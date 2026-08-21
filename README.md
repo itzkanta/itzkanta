@@ -1,85 +1,100 @@
 # Hi, I'm Kanta Chaudhary 👋
 
-### 🎓 BSc.CSIT Student | 🐍 Python Developer | 📊 Data Science Enthusiast
+### 🎓 BSc.CSIT Student | 🐍 Python Developer | 📊 Aspiring Data Scientist
 
-I'm a Computer Science student who enjoys learning new technologies, building projects, and turning ideas into practical solutions.
+I'm a Computer Science student passionate about **Data Science, Python, and problem-solving**. I enjoy working with data, building practical projects, and exploring how technology can be used to solve real-world problems.
 
-Currently, I'm focusing on **Python, Data Science, Backend Development, and Software Engineering** while continuously improving my problem-solving skills.
+I also have experience working on **web and backend development projects**, which has helped me build a broader understanding of software development and databases.
+
+Currently, I'm focusing on strengthening my skills in **Data Science, Machine Learning, Statistics, and Python**, while continuing to explore backend development.
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 BSc.CSIT student
-* 🐍 Passionate about Python
-* 📊 Exploring Data Science & Machine Learning
-* 💻 Learning Backend Development
-* 🔎 Interested in building practical projects
-* 🌱 Always learning and experimenting with new technologies
+* 📊 Aspiring Data Scientist
+* 🐍 Passionate about Python and Data Science
+* 🤖 Exploring Machine Learning and Artificial Intelligence
+* 📈 Interested in data analysis, visualization, and extracting insights from data
+* 💻 Have experience with backend and web development
+* 🗄️ Familiar with databases and SQL
+* 🔎 Enjoy building practical projects and learning through experimentation
+* 🌱 Continuously improving my technical and problem-solving skills
 
 ---
+
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php" />
-</p>
-
-### 🌐 Web Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
-</p>
+`Python` `C` `C++` `C#` `PHP`
 
 ### 📊 Data Science & Machine Learning
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `BeautifulSoup` `Requests`
+
+### 🌐 Web & Backend Development
+
+`HTML` `CSS` `PHP`
 
 ### 🗄️ Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
-</p>
+`MySQL` `SQLite`
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+`Git` `GitHub` `VS Code` `Canva`
+
+---
 
 ## 📌 Featured Projects
 
 ### 📊 Data Science & Machine Learning
 
-* Data Cleaning & Preprocessing
-* Exploratory Data Analysis
-* Classification using Logistic Regression
-* NLP Text Classification
+I'm building projects to strengthen my understanding of the complete Data Science workflow, including:
 
-### 🕷️ Web Scraping
+* 🧹 Data Cleaning & Preprocessing
+* 📊 Exploratory Data Analysis (EDA)
+* 📈 Data Visualization
+* 🤖 Machine Learning & Classification
+* 📝 NLP & Text Classification
+* 📐 Model Evaluation
 
-Python-based web scraping projects using **Requests, BeautifulSoup, and Pandas**.
+### 🕷️ Web Scraping & Data Collection
 
-### 💻 Web & Software Projects
+Python-based projects using **Requests, BeautifulSoup, and Pandas** to collect, process, and analyze data from websites.
 
-Working on practical projects involving **PHP, MySQL, HTML, CSS, and backend development**.
+### 💻 Web & Backend Development
 
+I've also worked on web and backend projects using **PHP, MySQL, HTML, and CSS**, giving me practical experience in developing applications and working with databases.
 
-## 📈 My Goal
+---
 
-> To become a professional and skilled Data Scientist by developing strong foundations in Python, statistics, data analysis, and machine learning, while building real-world projects and continuously improving my problem-solving skills.
+## 📚 Currently Learning
+
+* 🐍 Advanced Python for Data Science
+* 📊 Statistics & Data Analysis
+* 📈 Data Visualization
+* 🤖 Machine Learning
+* 🗄️ SQL & Database Management
+* 🧠 Exploring Artificial Intelligence
+* 🛠️ Building real-world Data Science projects
+
+---
+
+## 🎯 My Goal
+
+> To become a professional and skilled Data Scientist by building strong foundations in Python, statistics, data analysis, and machine learning, while continuously working on real-world projects and improving my problem-solving skills.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaborating, and connecting with other developers and students.
+I'm always open to **learning, collaborating, and connecting** with fellow developers, data enthusiasts, and students.
 
 **GitHub:** [@itzk](https://github.com/itzk)
 
 ---
 
-### 💭 *Learn → Build → Fail → Improve → Repeat.*
+### 💭 *Learn → Build → Analyze → Improve → Repeat.*
