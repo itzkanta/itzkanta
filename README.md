@@ -22,31 +22,44 @@ Currently, I'm focusing on strengthening my skills in **Data Science, Machine Le
 * 🔎 Enjoy building practical projects and learning through experimentation
 * 🌱 Continuously improving my technical and problem-solving skills
 
----
-
 ## 🛠️ Tech Stack
 
 ### 👩‍💻 Programming Languages
 
-`Python` `C` `C++` `C#` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,cs,php" />
+</p>
 
 ### 📊 Data Science & Machine Learning
 
-`Pandas` `NumPy` `Matplotlib` `Scikit-learn` `BeautifulSoup` `Requests`
+<p>
+  <img src="https://skillicons.dev/icons?i=python,sklearn" />
+</p>
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="45" height="45" />
+</p>
 
 ### 🌐 Web & Backend Development
 
-`HTML` `CSS` `PHP`
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,php" />
+</p>
 
 ### 🗄️ Databases
 
-`MySQL` `SQLite`
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
 
 ### 🔧 Tools
 
-`Git` `GitHub` `VS Code` `Canva`
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
----
 
 ## 📌 Featured Projects
 
